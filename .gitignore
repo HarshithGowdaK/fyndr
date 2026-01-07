@@ -1,0 +1,24 @@
+# OS
+.DS_Store
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env
+frontend/.env.local
+frontend/.env.local.example
+
+# Backend
+backend/venv/
+backend/__pycache__/
+*.pyc
+backend/.env
+backend/index.faiss
+backend/metadata.json
+backend/static/uploads/*
+!backend/static/uploads/.gitkeep
+
+# IDEs
+.vscode/
+.idea/

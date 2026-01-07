@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+firebase-admin
+torch
+transformers
+pydantic
+pydantic-settings
+faiss-cpu
+pillow
+python-multipart
+mnemonic
